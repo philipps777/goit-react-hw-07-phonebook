@@ -28,7 +28,7 @@ export const ButtonList = styled.button`
     background-color: orange;
   }
 `;
-export const Number = styled.span`
+export const Phone = styled.span`
   margin-right: 10px;
   margin-left: 10px;
 `;
